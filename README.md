@@ -8,10 +8,14 @@ It involves implementing several decorators in Python.
 
 The project tasks include the implementation of the following decorators:
 
-Benchmark Decorator: Outputs the time it took to execute the decorated function.
-Logging Decorator: Outputs the parameters with which the function was called.
-Counter Decorator: Counts and outputs the number of calls to the decorated function.
-Memo Decorator: Stores the results of the execution of the function.
+Benchmark Decorator: 
+Outputs the time it took to execute the decorated function.
+Logging Decorator: 
+Outputs the parameters with which the function was called.
+Counter Decorator: 
+Counts and outputs the number of calls to the decorated function.
+Memo Decorator:
+Stores the results of the execution of the function.
 
 ** Getting Started **
 
