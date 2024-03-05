@@ -1,8 +1,34 @@
 # decorators_project_hse
 
-Start in Data Science Course Project
-This project is part of the "Start in Data Science" online course offered by HSE, one of the major Russian universities. 
-It involves implementing several decorators in Python.
+This project is part of the **"Start in Data Science"** online course offered by HSE, one of the major Russian universities. 
+
+The main purpose of the course is to teach participants the basics of the Python language and the analytical skills necessary for a successful career in data analysis.
+
+**Course program:**
+
+Python Basics
+
+Collections
+
+Functions, recursion, and exception handling
+
+Working with files and date
+
+Lines. Regular expressions
+
+The basics of analytics
+
+Data analytics in pandas
+
+SQL Basics
+
+OOP
+
+Working with SQL in Python Streamlet to create an MVP
+
+
+The project involves implementing several decorators in Python.
+
 
 **Project Overview**
 
